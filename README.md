@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernando Gonçalves aka Pher-go
 - 👀 I’m interested in Programming, Brewing beer, Science, stuff, etc.
-- 🌱 I’m currently learning C at 42 Lisboa and .NET at Upskill
+- 🌱 I’m currently learning C at 42 Lisboa and .NET at ISCTE-Upskill
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me fmsgoncalves at gmail .com
 
